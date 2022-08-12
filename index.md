@@ -4,5 +4,5 @@ Hello, nice to have you here! This is where I show the games that I made. Please
 
 
 ## Link for my YouTube page
-https://www.youtube.com/channel/UCF5SJBWl3d_LE6hT3I6gNig
+[Hear No Darkness](https://www.youtube.com/channel/UCF5SJBWl3d_LE6hT3I6gNig)
 
