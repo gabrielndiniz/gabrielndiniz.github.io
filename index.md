@@ -13,4 +13,6 @@ Hello, nice to have you here! This is where I show the games that I made. Please
 
 ## Links
 Be my guest to like and share it!
-[![My Youtube](https://brandeps.com/icon-download/Y/Youtube-icon-vector-02.svg){:height="36px" width="36px"}](https://www.youtube.com/channel/UCF5SJBWl3d_LE6hT3I6gNig "Hear No Darkness on Youtube")[![My Itch.io](https://static.itch.io/images/itchio-textless-black.svg){:height="36px" width="36px"}](https://hear-no-darkness.itch.io "Hear No Darkness on Youtube")[![My GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:height="36px" width="36px"}](https://github.com/gabrielndiniz "Gabriel N Diniz on GitHub")[![My GitLab](https://about.gitlab.com/images/press/press-kit-icon.svg){:height="36px" width="36px"}](https://gitlab.com/gabrielnd1/ "Gabriel N Diniz on GitLab")
+
+
+[![My Youtube](https://brandeps.com/icon-download/Y/Youtube-icon-vector-02.svg){:height="50px" width="50px"}](https://www.youtube.com/channel/UCF5SJBWl3d_LE6hT3I6gNig "Hear No Darkness on Youtube")         [![My Itch.io](https://static.itch.io/images/itchio-textless-black.svg){:height="50px" width="50px"}](https://hear-no-darkness.itch.io "Hear No Darkness on Youtube")         [![My GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:height="50px" width="50px"}](https://github.com/gabrielndiniz "Gabriel N Diniz on GitHub")         [![My GitLab](https://about.gitlab.com/images/press/press-kit-icon.svg){:height="50px" width="50px"}](https://gitlab.com/gabrielnd1/ "Gabriel N Diniz on GitLab")
