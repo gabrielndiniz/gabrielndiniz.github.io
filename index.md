@@ -18,7 +18,7 @@ Hello, nice to have you here! This is where I show the games that I made. Please
 **Revenge Of The Ghosy Ship** is my solo project to participate in the Game Jam promoted by GameDev.TV 
 
 ## About Me
-![Me!](images/foto.jpg "Me!"){:height="285px" width="405px"}
+![Me!](images/foto.jpg "Me!"){:height="405px" width="285px"}
 
 ### What I love
 I am a buddhist that love stay with my family and friends. I do play RPG with my friends and Video Game with my little niece, amongst other activities. Also, I love to play and read alone, enjoying the company of the creation of other people. I have more than 100 books and 300 games in my collection.
