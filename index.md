@@ -25,8 +25,33 @@ I am a buddhist that love stay with my family and friends. I do play RPG with my
 
 ### What are my skills
 I am a **Chemical Engineer** from **USP - Universidade de São Paulo (Brazil)** who had several different jobs and positions. I am a quick-learner that enjoys dynamic environments.
-Today, I work on Brazillian Navy as a Technical Coordinator in a high complexity engineering project. I participated on the multidisciplinary teams behind the development and implementation of two engineering document management softwares, due to the necessity of control and verification. Nowadays, I am coordinating the multidisciplinary team of sixteen people behind digital sign on these documents.
+Today, I work on Brazilian Navy as a Technical Coordinator in a high complexity engineering project. I participated on the multidisciplinary teams behind the development and implementation of two engineering document management software, due to the necessity of control and verification. Nowadays, I am coordinating the multidisciplinary team of sixteen people behind digital sign on these documents.
 Also, I coordinate a team of nine people behind the follow-up of engineering document from all different areas of engineering and quality management, connecting four different sectors from the company (about 500 people).
+
+### What are my programming courses
+From **Udemy**:
+
+[Unity C# Mobile Game from GameDev.Tv](https://www.udemy.com/share/104KnI3@vCnifT7YtcJ9ibB_lRA1vk6O_rtk3zEqy9AII3Z3_bxnCDh3XgqiZXxC89aUB_wF/)
+
+[Unreal C++ Multiplayer Master from GameDev.Tv](https://www.udemy.com/share/101Dtc3@Paau4DIpp5NhRkbf131v3MnOClDB_YIn2waZ-FIAtt-OTyzSTz22v0d0yhlna-TT/)
+
+[RPG Core Combat Creator from GameDev.Tv](https://www.udemy.com/share/101XWK3@n_g2PxS9YZ-oqeBpOi_xGpvAtYYo3k312QaCs9erZVvQe7tY1UrSmlyImqClxwcp/)
+
+[Unity Dialog and Quest from GameDev.Tv](https://www.udemy.com/share/103CaS3@6oC4v_SdGnaxGT6hVD-MQmV79V_1X7awXzZqcR89pskk6vSIkRcv1-Ot0GUEjip1/)
+
+[Unreal 4.22 C++ Course from GameDev.Tv (Archived)](https://www.gamedev.tv/courses/enrolled/675837)
+
+
+
+
+From **YouTube**:
+
+[How to Make a Video Game from Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
+
+[Random Dungeon Generator from Blackthornprod](https://www.youtube.com/watch?v=qAf9axsyijY)
+
+[Generating Terrain in Unity from Brackeys](https://www.youtube.com/watch?v=vFvwyu_ZKfU)
+
 
 
 ## Links
@@ -37,6 +62,9 @@ Be my guest to like and share it!
 
 ## Contact
 Feel free to talk with me!
+
 gabrielnd@gmail.com
+
 hearnodarkness@gmail.com
+
 +55 11 97211-5163
