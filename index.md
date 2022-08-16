@@ -25,8 +25,7 @@ I am a buddhist that love stay with my family and friends. I do play RPG with my
 
 ### What are my skills
 I am a **Chemical Engineer** from **USP - Universidade de São Paulo (Brazil)** who had several different jobs and positions. I am a quick-learner that enjoys dynamic environments.
-Today, I work on Brazilian Navy as a Technical Coordinator in a high complexity engineering project. I participated on the multidisciplinary teams behind the development and implementation of two engineering document management software, due to the necessity of control and verification. Nowadays, I am coordinating the multidisciplinary team of sixteen people behind digital sign on these documents.
-Also, I coordinate a team of nine people behind the follow-up of engineering document from all different areas of engineering and quality management, connecting four different sectors from the company (about 500 people).
+Today, I work on Brazilian Navy as a Technical Coordinator in a high complexity engineering project. I participated on the multidisciplinary teams behind the development and implementation of two engineering document management software.
 
 ### What are my programming courses
 From **Udemy**:
