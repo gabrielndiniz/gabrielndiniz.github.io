@@ -8,6 +8,7 @@ Hello, nice to have you here! This is where I show the games that I made. Please
 [![Too Deep To Dig](https://img.youtube.com/vi/tqRdO8yj7KU/0.jpg)](https://www.youtube.com/watch?v=tqRdO8yj7KU "Too Deep To Dig") 
 
 **Too Deep To Dig** is my solo project to show about my skills in programming. It is a free game available for free on [https://hear-no-darkness.itch.io/too-deep-to-dig](https://hear-no-darkness.itch.io/too-deep-to-dig)
+It is also available on [Google Play Store, for free](https://play.google.com/store/apps/details?id=com.GabrielNobileDiniz.TooDeepToDig)
 
 **Keywords (time on video):** Top-Down RPG (0:00), Quest (0:40), Loading UI (1:01), Dungeons Random Procedurally Generated (1:10), Combat System(1:38), Merchant System (2:18), Spell-Casting System(4:19). 
 
