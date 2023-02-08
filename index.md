@@ -1,35 +1,30 @@
-# My Portfolio - Gabriel Diniz - Game Developer
+# My Portfolio - Gabriel Diniz - Game Programmer
 
-Hello, nice to have you here! This is where I show the games that I made. Please, be my guest to comment or ask me anything!
+Welcome! This is my portfolio where I showcase my game development skills and projects. Feel free to leave comments or ask me any questions.
 
+## Projects
 
-## My Project
 ### Too Deep To Dig
-[![Too Deep To Dig](https://img.youtube.com/vi/tqRdO8yj7KU/0.jpg)](https://www.youtube.com/watch?v=tqRdO8yj7KU "Too Deep To Dig") 
 
-**Too Deep To Dig** is my solo project to show about my skills in programming. It is a free game available for free on [https://hear-no-darkness.itch.io/too-deep-to-dig](https://hear-no-darkness.itch.io/too-deep-to-dig)
-It is also available on [Google Play Store, for free](https://play.google.com/store/apps/details?id=com.GabrielNobileDiniz.TooDeepToDig)
+[![Too Deep To Dig](https://img.youtube.com/vi/tqRdO8yj7KU/0.jpg)](https://www.youtube.com/watch?v=tqRdO8yj7KU "Too Deep To Dig")
 
-**Keywords (time on video):** Top-Down RPG (0:00), Quest (0:40), Loading UI (1:01), Dungeons Random Procedurally Generated (1:10), Combat System(1:38), Merchant System (2:18), Spell-Casting System(4:19). 
+**Too Deep To Dig** is a solo project showcasing my programming skills. It's a top-down RPG game with a quest system, procedurally generated dungeons, a combat system, merchant system, and spell-casting system. The game is available for free on [itch.io](https://hear-no-darkness.itch.io/too-deep-to-dig) and [Google Play Store](https://play.google.com/store/apps/details?id=com.GabrielNobileDiniz.TooDeepToDig).
 
-## My Gamejam Project
-### Revenge Of The Ghost Ship - Game Jam 2022 from GameDev.TV
+### Revenge Of The Ghost Ship
+
 [![Revenge Of The Ghost Ship](https://img.itch.zone/aW1nLzkwNTczNTMucG5n/original/tWG15k.png)](https://img.itch.zone/aW1nLzkwNTczNTMucG5n/347x500/O6TH0f.png "Revenge Of The Ghost Ship")
 
-**Revenge Of The Ghosy Ship** is my solo project to participate in the Game Jam promoted by GameDev.TV 
+**Revenge Of The Ghost Ship** is a solo project developed for a game jam organized by GameDev.TV.
 
 ## About Me
-![Me!](images/foto.jpg "Me!"){:height="405px" width="285px"}
 
-### What I love
-I am a buddhist that love stay with my family and friends. I do play RPG with my friends and Video Game with my little niece, amongst other activities. Also, I love to play and read alone, enjoying the company of the creation of other people. I have more than 100 books and 300 games in my collection.
+![Me!](images/foto.jpg "Me!")
 
-### What are my skills
-I am a **Chemical Engineer** from **USP - Universidade de São Paulo (Brazil)** who had several different jobs and positions. I am a quick-learner that enjoys dynamic environments.
-Today, I work on Brazilian Navy as a Technical Coordinator in a high complexity engineering project. I participated on the multidisciplinary teams behind the development and implementation of two engineering document management software.
+I'm a Chemical Engineer from USP (Universidade de São Paulo, Brazil) with a passion for game development. I have experience working in dynamic environments, and I'm a quick learner. Currently, I work as a Technical Coordinator for a high complexity engineering project for the Brazilian Navy. I've also participated in multidisciplinary teams for the development and implementation of two engineering document management software.
 
-### What are my programming courses
-From **Udemy**:
+I have completed several game development courses from Udemy and YouTube, including:
+
+**Udemy Courses:**
 
 [Unity C# Mobile Game from GameDev.Tv](https://www.udemy.com/share/104KnI3@vCnifT7YtcJ9ibB_lRA1vk6O_rtk3zEqy9AII3Z3_bxnCDh3XgqiZXxC89aUB_wF/)
 
@@ -42,9 +37,7 @@ From **Udemy**:
 [Unreal 4.22 C++ Course from GameDev.Tv (Archived)](https://www.gamedev.tv/courses/enrolled/675837)
 
 
-
-
-From **YouTube**:
+**YouTube Courses:**
 
 [How to Make a Video Game from Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
 
@@ -52,7 +45,7 @@ From **YouTube**:
 
 [Generating Terrain in Unity from Brackeys](https://www.youtube.com/watch?v=vFvwyu_ZKfU)
 
-
+Aside from game development, I'm a practicing Buddhist who loves spending time with family and friends. I enjoy playing RPG games with friends and video games with my niece. I also love reading and have over 100 books and 300 games in my collection.
 
 ## Links
 Be my guest to like and share it!
