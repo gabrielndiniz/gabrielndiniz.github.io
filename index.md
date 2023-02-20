@@ -24,7 +24,7 @@ I'm a Chemical Engineer from USP (Universidade de São Paulo, Brazil) with a pas
 
 I have completed several game development courses from Udemy and YouTube, including:
 
-**Udemy Courses:**
+**Udemy and GameDev.TV Courses:**
 
 [Unity C# Mobile Game from GameDev.Tv](https://www.udemy.com/share/104KnI3@vCnifT7YtcJ9ibB_lRA1vk6O_rtk3zEqy9AII3Z3_bxnCDh3XgqiZXxC89aUB_wF/)
 
@@ -35,6 +35,8 @@ I have completed several game development courses from Udemy and YouTube, includ
 [Unity Dialog and Quest from GameDev.Tv](https://www.udemy.com/share/103CaS3@6oC4v_SdGnaxGT6hVD-MQmV79V_1X7awXzZqcR89pskk6vSIkRcv1-Ot0GUEjip1/)
 
 [Unreal 4.22 C++ Course from GameDev.Tv (Archived)](https://www.gamedev.tv/courses/enrolled/675837)
+
+[Unreal VR Dev: Make VR Experiences with Unreal Engine in C++](https://www.gamedev.tv/courses/enrolled/635398)
 
 
 **YouTube Courses:**
