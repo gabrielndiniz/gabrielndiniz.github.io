@@ -4,6 +4,12 @@ Welcome to my portfolio! I'm Gabriel Diniz, a game programmer showcasing my skil
 
 ## Projects
 
+### ToVRe Defense
+
+[![ToVRe Defense](https://img.youtube.com/vi/iRGOskPGcm0/0.jpg)](https://youtu.be/iRGOskPGcm0 "ToVRe Defense")
+
+**ToVRe Defense** is a short solo project using the VR properties from Unreal Engine. It's a shooter VR game with a turret system instead of typical guns, infinite enemies, and a score system. The game is available for free on [itch.io](https://hear-no-darkness.itch.io/tovre-defense) and coming soon to the Meta Store.
+
 ### Too Deep To Dig
 
 [![Too Deep To Dig](https://img.youtube.com/vi/tqRdO8yj7KU/0.jpg)](https://www.youtube.com/watch?v=tqRdO8yj7KU "Too Deep To Dig")
@@ -11,17 +17,11 @@ Welcome to my portfolio! I'm Gabriel Diniz, a game programmer showcasing my skil
 **Too Deep To Dig** is a solo project showcasing my programming skills. It's a top-down RPG game with a quest system, procedurally generated dungeons, a combat system, merchant system, and spell-casting system. The game is available for free on [itch.io](https://hear-no-darkness.itch.io/too-deep-to-dig) and [Google Play Store](https://play.google.com/store/apps/details?id=com.GabrielNobileDiniz.TooDeepToDig).
 
 
-### ToVRe Defense
-
-[![ToVRe Defense](https://img.youtube.com/vi/iRGOskPGcm0/0.jpg)](https://youtu.be/iRGOskPGcm0 "ToVRe Defense")
-
-**ToVRe Defense** is a short solo project using the VR properties from Unreal Engine. It's a shooter VR game with a turret system instead of typical guns, infinite enemies, and a score system. The game is available for free on [itch.io](https://hear-no-darkness.itch.io/tovre-defense) and coming soon to the Meta Store.
-
 ## Game Jams
 
 ### The Search Of Life
 
-[![The Search Of Life](https://hear-no-darkness.itch.io/the-search-of-life)](https://hear-no-darkness.itch.io/the-search-of-life "The Search Of Life")
+[![The Search Of Life](https://img.itch.zone/aW1nLzEyMjkxOTk1LnBuZw==/315x250%23c/i6pJVz.png)](https://hear-no-darkness.itch.io/the-search-of-life "The Search Of Life")
 
 **The Search Of Life** is a solo project developed for a game jam organized by GameDev.TV in 2023.
 
