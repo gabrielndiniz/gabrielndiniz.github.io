@@ -4,6 +4,12 @@ Welcome to my portfolio! I'm Gabriel Diniz, a game programmer showcasing my skil
 
 ## Projects
 
+### Stand For Amazonian Forest
+
+[![SFAF](https://img.youtube.com/vi/LyGu3aTePEM/0.jpg)](https://youtu.be/LyGu3aTePEM "Stand For Amazonian Forest")
+
+**Stand For Amazonian Forest** is a short solo project showcasing my Unreal Engine skills. It's a turn-based tactical game, with an environment thematic. The game is available for free on [itch.io](https://hear-no-darkness.itch.io/stand-for-amazionan-forest).
+
 ### ToVRe Defense
 
 [![ToVRe Defense](https://img.youtube.com/vi/iRGOskPGcm0/0.jpg)](https://youtu.be/iRGOskPGcm0 "ToVRe Defense")
