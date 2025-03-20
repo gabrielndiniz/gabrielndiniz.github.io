@@ -43,7 +43,7 @@ Welcome to my portfolio! I'm Gabriel Diniz, a game programmer showcasing my skil
 
 ![Me!](images/foto.jpg "Me!")
 
-I'm Gabriel Diniz, a Chemical Engineer from USP (Universidade de São Paulo, Brazil), with a deep passion for game development. I thrive in dynamic environments and am a quick learner. Although I currently work as a Technical Coordinator in an engineering project, my true passion lies in game development, where I have been honing my skills through personal projects and game jams. I've also been part of multidisciplinary teams, contributing to the development and implementation of two engineering document management software solutions.
+I'm Gabriel Diniz, a Game Developer with a background in Chemical Engineering from USP (Universidade de São Paulo, Brazil). I thrive in dynamic environments and learn quickly. Currently, I work as a Technical Coordinator in an engineering project, but my true passion lies in game development. I've been refining my skills through personal projects and game jams while also contributing to multidisciplinary teams, helping develop and implement two engineering document management software solutions.
 
 In addition to my engineering background, I've pursued my interest in game development through various online platforms, including Udemy and YouTube. I've completed several game development courses, acquiring skills in areas such as:
 
