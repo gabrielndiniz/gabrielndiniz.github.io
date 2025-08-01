@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unreal Engine Projects - Gabriel Diniz</title>
+    <meta name="description" content="Explore Gabriel Diniz's Unreal Engine projects, including Stand For Amazonian Forest and ToVRe Defense, showcasing Blueprint visual scripting and C++ development.">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="../images/favicon.png">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header>
+        <div class="header-container">
+            <a href="../index.html" class="logo">Gabriel Diniz</a>
+            
+            <button class="menu-toggle" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="../index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item has-dropdown">
+                    <a href="#" class="nav-link">Portfolio</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="featured.html" class="dropdown-item">Featured Project</a></li>
+                        <li><a href="unreal.html" class="dropdown-item">Unreal Engine Projects</a></li>
+                        <li><a href="unity.html" class="dropdown-item">Unity Projects</a></li>
+                        <li><a href="gamejams.html" class="dropdown-item">Game Jam Projects</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item has-dropdown">
+                    <a href="#" class="nav-link">About Me</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../about/bio.html" class="dropdown-item">Biography</a></li>
+                        <li><a href="../about/values.html" class="dropdown-item">Professional Values</a></li>
+                        <li><a href="../about/skills.html" class="dropdown-item">Technical Skills</a></li>
+                        <li><a href="../about/interests.html" class="dropdown-item">Interests & Hobbies</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item has-dropdown">
+                    <a href="#" class="nav-link">Education</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../education/formal.html" class="dropdown-item">Formal Education</a></li>
+                        <li><a href="../education/gamedev.html" class="dropdown-item">Game Development Education</a></li>
+                        <li><a href="../education/personal.html" class="dropdown-item">Personal Development</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a href="../contact.html" class="nav-link">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <section id="unity-projects">
+                <h1>Unity Projects</h1>
+
+                <div class="projects-intro">
+                    <p>Unity is a versatile game engine that I've used to create a variety of projects, from solo RPGs to fast-paced jam entries. These games demonstrate my proficiency in C# programming, systems design, and rapid development under time constraints.</p>
+                </div>
+
+                <!-- Too Deep To Dig -->
+                <div class="project-showcase" id="tdtd">
+                    <h2>Too Deep To Dig</h2>
+
+                    <div class="project-media">
+                        <div class="project-video">
+                            <iframe width="100%" height="500" src="https://www.youtube.com/embed/tqRdO8yj7KU" title="Too Deep To Dig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="project-details">
+                        <div class="project-tags">
+                            <span class="tag">Unity</span>
+                            <span class="tag">C#</span>
+                            <span class="tag">Procedural Generation</span>
+                            <span class="tag">Top-Down RPG</span>
+                            <span class="tag">Solo Development</span>
+                        </div>
+
+                        <div class="project-links">
+                            <a href="https://hear-no-darkness.itch.io/too-deep-to-dig" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+                                <i class="fab fa-itch-io"></i> Play on itch.io
+                            </a>
+                            <a href="https://play.google.com/store/apps/details?id=com.GabrielNobileDiniz.TooDeepToDig" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
+                                <i class="fab fa-google-play"></i> Play on Google Play
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-description">
+                        <h3>Project Overview</h3>
+                        <p><strong>Too Deep To Dig</strong> is a comprehensive solo project that highlights my ability to design and implement complex gameplay systems in Unity. The game combines procedurally generated dungeons with dynamic combat and quest mechanics.</p>
+
+                        <h3>Key Features</h3>
+                        <ul>
+                            <li><strong>Procedural Generation:</strong> Unique dungeons created at runtime using custom algorithms</li>
+                            <li><strong>Quest System:</strong> Branching narrative with multiple paths and endings</li>
+                            <li><strong>Combat System:</strong> Real-time battles with varied enemy behaviors</li>
+                            <li><strong>Merchant System:</strong> Buy, sell, and trade with an evolving economy and item rarity</li>
+                            <li><strong>Spell-Casting System:</strong> Diverse magic spells with unique effects and combos</li>
+                        </ul>
+
+                        <h3>Technical Implementation</h3>
+                        <ul>
+                            <li>Custom procedural generation algorithms using noise and tile mapping</li>
+                            <li>Finite State Machine (FSM) for enemies and player behavior</li>
+                            <li>Event-based quest tracking and dialogue branching</li>
+                            <li>Inventory and item systems with modular data-driven design</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- The Search of Life -->
+                <div class="project-showcase" id="search-of-life">
+                    <h2>The Search Of Life (GameDev.TV Jam 2023)</h2>
+
+                    <div class="project-media">
+                        <a href="https://hear-no-darkness.itch.io/the-search-of-life" target="_blank" rel="noopener noreferrer">
+                            <img src="https://img.itch.zone/aW1nLzEyMjkxOTk1LnBuZw==/315x250%23c/i6pJVz.png" alt="The Search Of Life thumbnail" width="100%">
+                        </a>
+                    </div>
+
+                    <div class="project-details">
+                        <div class="project-tags">
+                            <span class="tag">Unity</span>
+                            <span class="tag">Game Jam</span>
+                            <span class="tag">C#</span>
+                            <span class="tag">Prototyping</span>
+                        </div>
+
+                        <div class="project-links">
+                            <a href="https://hear-no-darkness.itch.io/the-search-of-life" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+                                <i class="fab fa-itch-io"></i> Play on itch.io
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-description">
+                        <h3>Project Overview</h3>
+                        <p><strong>The Search Of Life</strong> was created in just 7 days for the GameDev.TV Jam 2023. This project showcases my ability to design and build a complete gameplay loop within a tight deadline.</p>
+
+                        <h3>Key Achievements</h3>
+                        <ul>
+                            <li>Fast prototyping of game mechanics and level design</li>
+                            <li>Efficient scope management and feature prioritization</li>
+                            <li>Complete experience with beginning, middle, and end</li>
+                        </ul>
+
+                        <h3>Technologies Used</h3>
+                        <p>Unity, C#</p>
+                    </div>
+                </div>
+
+                <!-- Revenge of the Ghost Ship -->
+                <div class="project-showcase" id="ghost-ship">
+                    <h2>Revenge Of The Ghost Ship (GameDev.TV Jam 2022)</h2>
+
+                    <div class="project-media">
+                        <a href="https://hear-no-darkness.itch.io/revenge-of-the-ghost-ship" target="_blank" rel="noopener noreferrer">
+                            <img src="https://img.itch.zone/aW1nLzkwNTczNTMucG5n/original/tWG15k.png" alt="Revenge Of The Ghost Ship thumbnail" width="100%">
+                        </a>
+                    </div>
+
+                    <div class="project-details">
+                        <div class="project-tags">
+                            <span class="tag">Unity</span>
+                            <span class="tag">Game Jam</span>
+                            <span class="tag">C#</span>
+                            <span class="tag">First Project</span>
+                        </div>
+
+                        <div class="project-links">
+                            <a href="https://hear-no-darkness.itch.io/revenge-of-the-ghost-ship" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+                                <i class="fab fa-itch-io"></i> Play on itch.io
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-description">
+                        <h3>Project Overview</h3>
+                        <p><strong>Revenge Of The Ghost Ship</strong> was my first GameDev.TV jam submission, completed in 2022. It was an essential step in learning how to scope a project and bring it to completion under pressure.</p>
+
+                        <h3>Key Learnings</h3>
+                        <ul>
+                            <li>Scoping a complete game for a limited timeframe</li>
+                            <li>Focusing on core mechanics and polish</li>
+                            <li>Iterating quickly and debugging under time pressure</li>
+                        </ul>
+
+                        <h3>Technologies Used</h3>
+                        <p>Unity, C#</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="social-links">
+                <a href="https://github.com/gabrielndiniz" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="social-icon">
+                </a>
+                <a href="https://gitlab.com/gabrielnd1/" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="GitLab" class="social-icon">
+                </a>
+                <a href="https://hear-no-darkness.itch.io" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <img src="https://static.itch.io/images/itchio-textless-black.svg" alt="Itch.io" class="social-icon">
+                </a>
+                <a href="https://www.youtube.com/channel/UCF5SJBWl3d_LE6hT3I6gNig" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <img src="https://brandeps.com/icon-download/Y/Youtube-icon-vector-02.svg" alt="YouTube" class="social-icon">
+                </a>
+            </div>
+            <p>&copy; 2025 Gabriel Diniz. All rights reserved.</p>
+            <p>
+                <a href="../PP.html">Privacy Policy</a> | 
+                <a href="../TC.html">Terms & Conditions</a>
+            </p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="../js/main.js"></script>
+</body>
+</html>
