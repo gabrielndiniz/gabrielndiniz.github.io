@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabriel Diniz - Portfolio</title>
+    <meta name="description" content="Explore Gabriel Diniz's game development projects in Unreal, Unity, Game Jams, and Featured works.">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="../images/favicon.png">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+<!-- Header & Navigation -->
+<header>
+    <div class="header-container">
+        <a href="../index.html" class="logo">Gabriel Diniz</a>
+
+        <button class="menu-toggle" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fas fa-bars"></i>
+        </button>
+
+        <ul class="nav-menu">
+            <li class="nav-item">
+                <a href="../index.html" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item has-dropdown">
+                <a href="#" class="nav-link">Portfolio</a>
+                <ul class="dropdown-menu">
+                    <li><a href="featured.html" class="dropdown-item">Featured Project</a></li>
+                    <li><a href="unreal.html" class="dropdown-item">Unreal Engine Projects</a></li>
+                    <li><a href="unity.html" class="dropdown-item">Unity Projects</a></li>
+                    <li><a href="gamejams.html" class="dropdown-item">Game Jam Projects</a></li>
+                </ul>
+            </li>
+            <li class="nav-item has-dropdown">
+                <a href="#" class="nav-link">About Me</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../about/bio.html" class="dropdown-item">Biography</a></li>
+                    <li><a href="../about/values.html" class="dropdown-item">Professional Values</a></li>
+                    <li><a href="../about/skills.html" class="dropdown-item">Technical Skills</a></li>
+                    <li><a href="../about/interests.html" class="dropdown-item">Interests & Hobbies</a></li>
+                </ul>
+            </li>
+            <li class="nav-item has-dropdown">
+                <a href="#" class="nav-link">Education</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../education/formal.html" class="dropdown-item">Formal Education</a></li>
+                    <li><a href="../education/gamedev.html" class="dropdown-item">Game Development Education</a></li>
+                    <li><a href="../education/personal.html" class="dropdown-item">Personal Development</a></li>
+                </ul>
+            </li>
+            <li class="nav-item">
+                <a href="../contact.html" class="nav-link">Contact</a>
+            </li>
+        </ul>
+    </div>
+</header>
+
+<!-- Main Content -->
+<main>
+    <!-- Intro Section -->
+    <section class="portfolio-intro">
+        <div class="container">
+            <h2>Welcome to My Portfolio</h2>
+            <p>Discover my projects across different game engines and competitions. Click "Learn More" to explore each category in depth.</p>
+        </div>
+    </section>
+
+    <!-- Portfolio Categories as Project Cards -->
+    <section id="portfolio-preview">
+        <div class="container projects-grid">
+
+            <!-- Featured Projects -->
+            <div class="project-card">
+                <img src="../images/featured-thumb.jpg" alt="Featured Projects" class="project-image">
+                <div class="project-content">
+                    <h3 class="project-title">Featured Projects</h3>
+                    <div class="project-tags">
+                        <span class="tag">Highlight</span>
+                        <span class="tag">Personal</span>
+                    </div>
+                    <p>A showcase of my top projects, demonstrating creativity and technical skills across various engines.</p>
+                    <a href="featured.html" class="btn btn-sm">Learn More</a>
+                </div>
+            </div>
+
+            <!-- Unreal Engine -->
+            <div class="project-card">
+                <img src="../images/unreal-thumb.jpg" alt="Unreal Engine Projects" class="project-image">
+                <div class="project-content">
+                    <h3 class="project-title">Unreal Engine</h3>
+                    <div class="project-tags">
+                        <span class="tag">Unreal</span>
+                        <span class="tag">Blueprint</span>
+                        <span class="tag">C++</span>
+                    </div>
+                    <p>Projects built in Unreal Engine, from gameplay prototypes to full-featured interactive environments.</p>
+                    <a href="unreal.html" class="btn btn-sm">Learn More</a>
+                </div>
+            </div>
+
+            <!-- Unity Engine -->
+            <div class="project-card">
+                <img src="../images/unity-thumb.jpg" alt="Unity Projects" class="project-image">
+                <div class="project-content">
+                    <h3 class="project-title">Unity Engine</h3>
+                    <div class="project-tags">
+                        <span class="tag">Unity</span>
+                        <span class="tag">C#</span>
+                        <span class="tag">Gameplay Systems</span>
+                    </div>
+                    <p>Unity projects ranging from 2D and 3D games to procedural systems and experimental mechanics.</p>
+                    <a href="unity.html" class="btn btn-sm">Learn More</a>
+                </div>
+            </div>
+
+            <!-- Game Jams -->
+            <div class="project-card">
+                <img src="../images/gamejams-thumb.jpg" alt="Game Jam Projects" class="project-image">
+                <div class="project-content">
+                    <h3 class="project-title">Game Jams</h3>
+                    <div class="project-tags">
+                        <span class="tag">Game Jam</span>
+                        <span class="tag">Rapid Dev</span>
+                    </div>
+                    <p>Quick, creative games developed during game jam events, showcasing innovation and rapid prototyping skills.</p>
+                    <a href="gamejams.html" class="btn btn-sm">Learn More</a>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+</main>
+
+
+
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="social-links">
+            <a href="https://github.com/gabrielndiniz" target="_blank" rel="noopener noreferrer" class="social-link">
+                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="social-icon">
+            </a>
+            <a href="https://gitlab.com/gabrielnd1/" target="_blank" rel="noopener noreferrer" class="social-link">
+                <img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="GitLab" class="social-icon">
+            </a>
+            <a href="https://hear-no-darkness.itch.io" target="_blank" rel="noopener noreferrer" class="social-link">
+                <img src="https://static.itch.io/images/itchio-textless-black.svg" alt="Itch.io" class="social-icon">
+            </a>
+            <a href="https://www.youtube.com/channel/UCF5SJBWl3d_LE6hT3I6gNig" target="_blank" rel="noopener noreferrer" class="social-link">
+                <img src="https://brandeps.com/icon-download/Y/Youtube-icon-vector-02.svg" alt="YouTube" class="social-icon">
+            </a>
+        </div>
+        <p>&copy; 2025 Gabriel Diniz. All rights reserved.</p>
+        <p>
+            <a href="../PP.html">Privacy Policy</a> |
+            <a href="../TC.html">Terms & Conditions</a>
+        </p>
+    </div>
+</footer>
+
+<!-- JavaScript -->
+<script src="../js/main.js"></script>
+</body>
+</html>
