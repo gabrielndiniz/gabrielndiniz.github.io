@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Portfolio\\Page\\gabrielndiniz.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E4BDBDB-5801-70E4-A38A-4D34F8C00081}|E:\\Portfolio|e:\\portfolio\\page\\gabrielndiniz.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E4BDBDB-5801-70E4-A38A-4D34F8C00081}|E:\\Portfolio|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E4BDBDB-5801-70E4-A38A-4D34F8C00081}|E:\\Portfolio|e:\\portfolio\\page\\gabrielndiniz.github.io\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{7E4BDBDB-5801-70E4-A38A-4D34F8C00081}|E:\\Portfolio|solutionrelative:index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E4BDBDB-5801-70E4-A38A-4D34F8C00081}|E:\\Portfolio|e:\\portfolio\\page\\gabrielndiniz.github.io\\pp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E4BDBDB-5801-70E4-A38A-4D34F8C00081}|E:\\Portfolio|solutionrelative:pp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E4BDBDB-5801-70E4-A38A-4D34F8C00081}|E:\\Portfolio|e:\\portfolio\\page\\gabrielndiniz.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E4BDBDB-5801-70E4-A38A-4D34F8C00081}|E:\\Portfolio|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.md",
               "DocumentMoniker": "E:\\Portfolio\\Page\\gabrielndiniz.github.io\\index.md",
               "RelativeDocumentMoniker": "index.md",
               "ToolTip": "E:\\Portfolio\\Page\\gabrielndiniz.github.io\\index.md",
               "RelativeToolTip": "index.md",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-04-08T19:02:29.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "featured.html",
               "DocumentMoniker": "E:\\Portfolio\\Page\\gabrielndiniz.github.io\\projects\\featured.html",
               "RelativeDocumentMoniker": "projects\\featured.html",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PP.html",
               "DocumentMoniker": "E:\\Portfolio\\Page\\gabrielndiniz.github.io\\PP.html",
               "RelativeDocumentMoniker": "PP.html",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "E:\\Portfolio\\Page\\gabrielndiniz.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "E:\\Portfolio\\Page\\gabrielndiniz.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALcAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-04-08T19:01:33.268Z",
               "EditorCaption": ""

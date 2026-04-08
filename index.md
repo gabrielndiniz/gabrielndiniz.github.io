@@ -1,6 +1,6 @@
 # Gabriel Diniz - Game Developer & Interactive Experience Designer
 
-Welcome to my professional portfolio! I'm a passionate game developer with 6 years of self-directed study and project experience, currently transitioning from engineering to pursue my true calling in game development. I specialize in creating engaging interactive experiences that combine technical excellence with creative design. My background in engineering gives me a unique perspective on problem-solving and system design in game development.
+Welcome to my professional portfolio! I'm a passionate game developer with 7 years of self-directed study and project experience, currently transitioning from engineering to pursue my true calling in game development. I specialize in creating engaging interactive experiences that combine technical excellence with creative design. My background in engineering gives me a unique perspective on problem-solving and system design in game development.
 
 ## Portfolio Projects
 
