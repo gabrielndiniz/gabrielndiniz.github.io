@@ -170,7 +170,7 @@ I'm always interested in discussing new projects, creative collaborations, or op
 [![Itch.io](https://static.itch.io/images/itchio-textless-black.svg){:height="50px" width="50px"}](https://hear-no-darkness.itch.io "Hear No Darkness on Itch.io"){:target="_blank" rel="noopener noreferrer"} 
 **Itch.io:** [hear-no-darkness.itch.io](https://hear-no-darkness.itch.io){:target="_blank" rel="noopener noreferrer"} - Play and download my published games
 
-[![YouTube](https://brandeps.com/icon-download/Y/Youtube-icon-vector-02.svg){:height="50px" width="50px"}](https://www.youtube.com/channel/UCF5SJBWl3d_LE6hT3I6gNig "Hear No Darkness on Youtube"){:target="_blank" rel="noopener noreferrer"} 
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png){:height="50px" width="50px"}](https://www.youtube.com/channel/UCF5SJBWl3d_LE6hT3I6gNig "Hear No Darkness on Youtube"){:target="_blank" rel="noopener noreferrer"} 
 **YouTube:** [Hear No Darkness](https://www.youtube.com/channel/UCF5SJBWl3d_LE6hT3I6gNig){:target="_blank" rel="noopener noreferrer"} - Game trailers, development timelapse videos, and tutorials
 
 ## Contact Information
