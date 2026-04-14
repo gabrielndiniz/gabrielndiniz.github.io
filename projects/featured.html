@@ -91,8 +91,13 @@
                             <a href="https://hear-no-darkness.itch.io/too-deep-to-dig" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
                                 <i class="fab fa-itch-io"></i> Play on itch.io
                             </a>
+
                             <a href="https://play.google.com/store/apps/details?id=com.GabrielNobileDiniz.TooDeepToDig" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
                                 <i class="fab fa-google-play"></i> Google Play Store
+                            </a>
+
+                            <a href="https://github.com/gabrielndiniz/Unity_TooDeepToDig/tree/Develop/TooDeepToDig%20-%20Android" target="_blank" rel="noopener noreferrer" class="btn btn-outline">
+                                <i class="fab fa-github"></i> View Source Code
                             </a>
                         </div>
                     </div>
@@ -100,82 +105,128 @@
                 
                 <div class="project-description">
                     <h2>Project Overview</h2>
-                    <p><strong>Too Deep To Dig</strong> is a comprehensive solo project that demonstrates my ability to design and implement complex game systems. This top-down RPG represents the culmination of my game development skills, combining procedural generation, quest systems, combat mechanics, and more into a cohesive gaming experience.</p>
+                    <p><strong>Too Deep To Dig</strong> is a fully developed solo project where I designed and implemented a complete gameplay loop from scratch. This top-down RPG focuses on replayability and systemic design, combining procedural generation, combat, progression, and economy systems into a cohesive and scalable architecture.</p>
+
+                    <p>The goal of the project was to create a game that feels different every run while maintaining consistent player progression and challenge balance.</p>
                     
                     <h2>Key Features</h2>
-                    <div class="features-grid">
-                        <div class="feature-card">
-                            <div class="feature-icon">
-                                <i class="fas fa-random"></i>
+                        <div class="features-grid">
+
+                            <div class="feature-card">
+                                <div class="feature-icon">
+                                    <i class="fas fa-random"></i>
+                                </div>
+                                <h3>Procedural Dungeon Generation</h3>
+                                <p>
+                                    Custom room-based procedural generation system with validation rules to ensure playable layouts, connectivity, and balanced difficulty progression.
+                                </p>
+                                <a href="https://github.com/gabrielndiniz/Unity_TooDeepToDig/tree/Develop/TooDeepToDig%20-%20Android/Assets/Scripts/Scenario" target="_blank" class="feature-link">
+                                    View Implementation
+                                </a>
                             </div>
-                            <h3>Procedural Generation</h3>
-                            <p>Dynamically created dungeons that provide unique gameplay experiences each time. The algorithm ensures balanced level design with appropriate challenge progression.</p>
+                            
+                            <div class="feature-card">
+                                <i class="fas fa-tasks"></i>
+                                <h3>Quest System</h3>
+                                <p>
+                                    Modular quest architecture supporting multiple objectives and state transitions, designed for easy expansion and content scalability.
+                                </p>
+                                <a href="https://github.com/gabrielndiniz/Unity_TooDeepToDig/tree/Develop/TooDeepToDig%20-%20Android/Assets/Scripts/Quests" target="_blank" class="feature-link">
+                                    View Implementation
+                                    </p>
+                                </a>
+                            </div>
+
+                            <div class="feature-card">
+                                <i class="fas fa-chart-line"></i>
+                                <h3>Progression System</h3>
+                                <p>
+                                    Player progression framework handling stats, scaling, and upgrades, enabling consistent difficulty curves and long-term engagement.
+                                </p>
+                                <a href="https://github.com/gabrielndiniz/Unity_TooDeepToDig/tree/Develop/TooDeepToDig%20-%20Android/Assets/Scripts/Stats" target="_blank" class="feature-link">
+                                    View Implementation
+                                    </p>
+                                </a>
+                            </div>
+                            
+                            <div class="feature-card">
+                                <i class="fas fa-fist-raised"></i>
+                                <h3>Combat & Spell System</h3>
+                                <p>
+                                    Real-time combat system with extensible architecture for weapons, abilities, and enemy behaviors, including spell interactions and damage handling.
+                                </p>
+                                <a href="https://github.com/gabrielndiniz/Unity_TooDeepToDig/tree/Develop/TooDeepToDig%20-%20Android/Assets/Scripts/Combat" target="_blank" class="feature-link">
+                                    View Implementation   
+                                    </p>
+
+                                </a>
+                            </div>
+                            
+                            <div class="feature-card">
+                                <i class="fas fa-users"></i>
+                                <h3>NPC Interaction System</h3>
+                                <p>
+                                    Dialogue and merchant system supporting player interaction, item transactions, and state-based responses for immersive world building.
+                                </p>
+                                <a href="https://github.com/gabrielndiniz/Unity_TooDeepToDig/tree/Develop/TooDeepToDig%20-%20Android/Assets/Scripts/NPC" target="_blank" class="feature-link">
+                                    View Implementation
+                                    </p>
+                                </a>
+                            </div>
+                            
+                            <div class="feature-card">
+                                <i class="fas fa-dragon"></i>
+                                <h3>Monster Ability System</h3>
+                                <p>
+                                    Specialized system for enemy abilities and behaviors, enabling diverse combat scenarios and unique enemy mechanics.
+                                </p>
+                                <a href="https://github.com/gabrielndiniz/Unity_TooDeepToDig/tree/Develop/TooDeepToDig%20-%20Android/Assets/Scripts/Combat/MonsterSpecial" target="_blank" class="feature-link">
+                                    View Implementation
+                                    </p>
+                                </a>
+                            </div>
+
                         </div>
-                        
-                        <div class="feature-card">
-                            <i class="fas fa-tasks"></i>
-                            <h3>Quest System</h3>
-                            <p>Branching narrative structure with multiple objectives and outcomes. Players can make choices that affect the game world and unlock different storylines.</p>
-                        </div>
-                        
-                        <div class="feature-card">
-                            <i class="fas fa-fist-raised"></i>
-                            <h3>Combat System</h3>
-                            <p>Real-time combat with various enemy types and attack patterns. Players must use strategy and timing to overcome increasingly difficult challenges.</p>
-                        </div>
-                        
-                        <div class="feature-card">
-                            <i class="fas fa-store"></i>
-                            <h3>Merchant System</h3>
-                            <p>Economy simulation with buying, selling, and item rarity. The dynamic pricing system responds to player actions and game progression.</p>
-                        </div>
-                        
-                        <div class="feature-card">
-                            <i class="fas fa-magic"></i>
-                            <h3>Spell-Casting System</h3>
-                            <p>Diverse magical abilities with different effects and applications. Players can discover and master spells that transform gameplay possibilities.</p>
-                        </div>
-                    </div>
                     
-                    <h2>Development Process</h2>
-                    <p>Too Deep To Dig was developed over a period of eight months as a solo project. I was responsible for all aspects of development, including:</p>
+                    <h2>My Role & Responsibilities</h2>
+                    <p>This was a fully solo project where I was responsible for the entire development pipeline:</p>
                     <ul>
-                        <li>Game design and systems architecture</li>
-                        <li>Programming all gameplay mechanics</li>
-                        <li>Creating procedural generation algorithms</li>
-                        <li>Implementing UI/UX design</li>
-                        <li>Testing and optimization for multiple platforms</li>
+                        <li>Game design and core systems architecture</li>
+                        <li>Gameplay programming (C# / Unity)</li>
+                        <li>Procedural generation design and implementation</li>
+                        <li>UI/UX development and player feedback systems</li>
+                        <li>Performance optimization for PC and mobile</li>
+                        <li>Testing, balancing, and iteration</li>
                     </ul>
                     
-                    <p>The project presented several technical challenges, particularly in balancing the procedural generation to create levels that were both interesting and playable. I developed a custom algorithm that ensures each generated dungeon has an appropriate difficulty curve and maintains player engagement.</p>
-                    
-                    <h2>Technical Implementation</h2>
-                    <p>The game was built using Unity and C#, with custom procedural generation algorithms. Key technical achievements include:</p>
+                    <h2>Technical Highlights</h2>
                     <ul>
-                        <li>Efficient room-based procedural generation system</li>
-                        <li>State-driven AI for enemy behaviors</li>
-                        <li>Modular combat system allowing for easy addition of new weapons and abilities</li>
-                        <li>Optimized performance for mobile platforms</li>
-                        <li>Save/load system with persistent world state</li>
+                        <li>Room-based procedural generation with validation rules to prevent broken layouts</li>
+                        <li>State-driven AI architecture for enemy behaviors</li>
+                        <li>Modular gameplay systems (combat, abilities, economy)</li>
+                        <li>Save/load system with persistent progression</li>
+                        <li>Mobile optimization (memory and performance constraints)</li>
+                    </ul>
+                    
+                    <h2>Key Challenges & Solutions</h2>
+                    <ul>
+                        <li><strong>Challenge:</strong> Generating levels that are both random and playable  
+                        <br><strong>Solution:</strong> Implemented constraint-based generation with validation passes to ensure connectivity and balance</li>
+                        
+                        <li><strong>Challenge:</strong> Maintaining scalable code as systems grew  
+                        <br><strong>Solution:</strong> Designed modular systems with clear responsibilities, enabling easier iteration and feature expansion</li>
+                        
+                        <li><strong>Challenge:</strong> Performance on mobile devices  
+                        <br><strong>Solution:</strong> Optimized update cycles, reduced allocations, and simplified runtime calculations</li>
                     </ul>
                     
                     <h2>Lessons Learned</h2>
-                    <p>This project taught me valuable lessons about game development, including:</p>
                     <ul>
-                        <li>The importance of iterative design and frequent playtesting</li>
-                        <li>Techniques for optimizing performance on resource-constrained platforms</li>
-                        <li>Balancing complexity with accessibility in game mechanics</li>
-                        <li>Project management for solo development</li>
+                        <li>How to design scalable gameplay systems instead of one-off features</li>
+                        <li>The importance of iteration and fast testing loops</li>
+                        <li>Balancing system complexity with player clarity</li>
+                        <li>Managing scope and priorities in a solo project</li>
                     </ul>
-                    
-                    <h2>Screenshots</h2>
-                    <div class="screenshot-gallery">
-                        <!-- Placeholder for screenshots - would be replaced with actual game screenshots -->
-                        <img src="https://via.placeholder.com/400x225" alt="Too Deep To Dig - Gameplay" class="screenshot">
-                        <img src="https://via.placeholder.com/400x225" alt="Too Deep To Dig - Combat" class="screenshot">
-                        <img src="https://via.placeholder.com/400x225" alt="Too Deep To Dig - Inventory" class="screenshot">
-                        <img src="https://via.placeholder.com/400x225" alt="Too Deep To Dig - Spell Casting" class="screenshot">
-                    </div>
                 </div>
             </section>
         </div>

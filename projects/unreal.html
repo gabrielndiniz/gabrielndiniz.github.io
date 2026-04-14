@@ -100,40 +100,118 @@
                             <a href="https://hear-no-darkness.itch.io/stand-for-amazionan-forest" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
                                 <i class="fab fa-itch-io"></i> Play on itch.io
                             </a>
+
+                            <a href="https://github.com/gabrielndiniz/StandFastAmazonianFighters/tree/main/SFAF" target="_blank" rel="noopener noreferrer" class="btn btn-outline">
+                                <i class="fab fa-github"></i> View Source Code
+                            </a>
                         </div>
                     </div>
                     
                     <div class="project-description">
                         <h3>Project Overview</h3>
-                        <p><strong>Stand For Amazonian Forest</strong> showcases my Unreal Engine development skills through a turn-based tactical game with an environmental theme. This project combines strategic gameplay with a meaningful message about conservation and environmental protection.</p>
+                        <p><strong>Stand For Amazonian Forest</strong> is a turn-based tactical game developed in Unreal Engine, focused on systemic gameplay and environmental storytelling. The project was designed to explore how game mechanics can reinforce real-world themes, combining strategy, resource management, and reactive systems.</p>
+
+                        <p>The core objective was to build a scalable turn-based system that balances strategic depth with player clarity, while integrating environmental mechanics directly into gameplay decisions.</p>
                         
                         <h3>Key Features</h3>
+                            <ul>
+
+                                <li>
+                                    <strong>Turn-Based Combat System (Blueprint):</strong>
+                                    Grid-based tactical system with turn management, unit actions, and state transitions, fully implemented in Unreal Engine Blueprints.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/StandFastAmazonianFighters/tree/main/SFAF/Content/Combat" target="_blank">
+                                        View Blueprint System (.uasset files)
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <strong>Multi-Unit & Faction System (Blueprint):</strong>
+                                    Supports multiple controllable units across two distinct factions (insects and machines), with modular character logic and shared behaviors.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/StandFastAmazonianFighters/tree/main/SFAF/Content/Characters" target="_blank">
+                                        View Character Blueprints (.uasset files)
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <strong>Hexagonal Grid & Terrain System (Blueprint):</strong>
+                                    Hex-based grid implementation with multiple terrain types affecting gameplay, positioning, and tactical decisions.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/StandFastAmazonianFighters/tree/main/SFAF/Content/Ground" target="_blank">
+                                        View Grid & Terrain Blueprints (.uasset files)
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <strong>Spell System with VFX (Blueprint):</strong>
+                                    Ability system supporting multiple spell types, integrated with visual effects for player feedback and combat clarity.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/StandFastAmazonianFighters/tree/main/SFAF/Content/Combat/Spells" target="_blank">
+                                        View Spell Blueprints (.uasset files)
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <strong>Enemy AI System (Blueprint):</strong>
+                                    AI decision-making system using Unreal’s AI framework, handling enemy behavior, targeting, and tactical responses.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/StandFastAmazonianFighters/tree/main/SFAF/Content/TopDown/AI/Utilities" target="_blank">
+                                        View AI Blueprints (.uasset files)
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <strong>Player Action Manager (Blueprint):</strong>
+                                    Centralized system controlling player inputs, action validation, and interaction flow across gameplay systems.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/StandFastAmazonianFighters/tree/main/SFAF/Content/TopDown/Blueprints" target="_blank">
+                                        View Core Gameplay Blueprints (.uasset files)
+                                    </a>
+                                </li>
+
+                            </ul>
+                        
+                        <h3>My Role & Responsibilities</h3>
                         <ul>
-                            <li><strong>Strategic Gameplay:</strong> Turn-based combat system with tactical decision-making, requiring players to carefully consider their moves and resource management</li>
-                            <li><strong>Environmental Storytelling:</strong> Using game mechanics to convey a message about conservation, with gameplay elements that reflect real-world environmental challenges</li>
-                            <li><strong>Unreal Blueprint System:</strong> Complex game logic implemented through visual scripting, demonstrating my proficiency with Unreal's Blueprint system</li>
-                            <li><strong>Dynamic Environment:</strong> Reactive game world that changes based on player actions and decisions</li>
-                            <li><strong>Resource Management:</strong> Systems for managing limited resources, creating meaningful strategic choices</li>
+                            <li>Game design and core systems architecture</li>
+                            <li>Implementation of gameplay systems using Blueprint and C++</li>
+                            <li>Turn-based system design and state management</li>
+                            <li>AI behavior design and balancing</li>
+                            <li>UI systems for player feedback and decision clarity</li>
+                            <li>Gameplay balancing and iteration</li>
                         </ul>
                         
-                        <h3>Development Highlights</h3>
-                        <p>This project presented several interesting development challenges:</p>
+                        <h3>Technical Highlights</h3>
                         <ul>
-                            <li>Creating an intuitive turn-based system with clear feedback to the player</li>
-                            <li>Balancing gameplay mechanics to ensure strategic depth while maintaining accessibility</li>
-                            <li>Implementing AI opponents that provide appropriate challenge without feeling unfair</li>
-                            <li>Integrating the environmental theme into gameplay in a meaningful way</li>
-                        </ul>
-                        
-                        <p>I used Unreal Engine's Blueprint system extensively for this project, creating modular systems that could be easily adjusted and balanced. This approach allowed for rapid iteration and refinement of the gameplay experience.</p>
-                        
-                        <h3>Technical Implementation</h3>
-                        <p>Key technical aspects of this project include:</p>
-                        <ul>
-                            <li>Grid-based movement and action system implemented with Blueprint</li>
-                            <li>State machine for managing game flow and turn transitions</li>
+                            <li>Grid-based movement and action system implemented in Blueprint</li>
+                            <li>State-driven architecture for turn management and game flow</li>
+                            <li>Behavior Tree-based AI for enemy decision-making</li>
+                            <li>Modular systems enabling rapid iteration and scalability</li>
                             <li>Custom UI elements for displaying game state and player options</li>
-                            <li>Behavior trees for enemy AI decision-making</li>
+                        </ul>
+                        
+                        <h3>Key Challenges & Solutions</h3>
+                        <ul>
+                            <li><strong>Challenge:</strong> Designing a turn-based system that feels intuitive without oversimplifying strategy  
+                            <br><strong>Solution:</strong> Built a state-driven flow with clear player feedback and structured turn phases</li>
+                            
+                            <li><strong>Challenge:</strong> Balancing strategy depth with accessibility  
+                            <br><strong>Solution:</strong> Iterative tuning of mechanics and constraints to maintain meaningful decisions without overwhelming the player</li>
+                            
+                            <li><strong>Challenge:</strong> Integrating environmental themes into gameplay systems  
+                            <br><strong>Solution:</strong> Connected player actions directly to world state changes, reinforcing the theme through mechanics instead of narrative alone</li>
+                            
+                            <li><strong>Challenge:</strong> Creating AI that is challenging but fair  
+                            <br><strong>Solution:</strong> Implemented Behavior Trees with controlled decision logic and predictable patterns</li>
+                        </ul>
+                        
+                        <h3>Lessons Learned</h3>
+                        <ul>
+                            <li>Designing systems where mechanics reinforce thematic goals</li>
+                            <li>Structuring turn-based gameplay for clarity and scalability</li>
+                            <li>Using Blueprint effectively for rapid prototyping and iteration</li>
+                            <li>Balancing player freedom with system constraints</li>
                         </ul>
                     </div>
                 </div>
@@ -160,42 +238,114 @@
                             <a href="https://hear-no-darkness.itch.io/tovre-defense" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
                                 <i class="fab fa-itch-io"></i> Play on itch.io
                             </a>
-                            <span class="coming-soon">Coming soon to Meta Store</span>
+
+                            <a href="https://github.com/gabrielndiniz/ToVReDefense/tree/main/C_ToVReDefense" target="_blank" rel="noopener noreferrer" class="btn btn-outline">
+                                <i class="fab fa-github"></i> View Source Code
+                            </a>
+
+                            <span class="coming-soon">Planned release on Meta Store</span>
                         </div>
                     </div>
                     
                     <div class="project-description">
                         <h3>Project Overview</h3>
-                        <p><strong>ToVRe Defense</strong> demonstrates my ability to work with virtual reality technology in Unreal Engine. This VR shooter features a unique turret-based combat system that provides an immersive and comfortable VR experience.</p>
+                        <p><strong>ToVRe Defense</strong> is a VR turret-based shooter developed in Unreal Engine, focused on delivering a comfortable and immersive experience through controlled player movement and optimized interaction systems.</p>
+                        
+                        <p>The project explores how to design engaging gameplay within VR constraints, prioritizing performance, player comfort, and intuitive interaction design.</p>
                         
                         <h3>Key Features</h3>
+                            <ul>
+                                <li>
+                                    <strong>VR Interaction System (Blueprint):</strong>
+                                    Custom interaction framework for VR controls, handling input, weapon interaction, and player feedback within a 3D spatial environment.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/ToVReDefense/tree/main/C_ToVReDefense/Content/VRTemplate/Blueprints" target="_blank">
+                                        View VR Blueprints (.uasset files)
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <strong>Turret-Based Gameplay System (C++):</strong>
+                                    Core gameplay implemented in C++, controlling player behavior, turret mechanics, and interaction logic for a stationary VR experience.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/ToVReDefense/blob/main/C_ToVReDefense/Source/C_ToVReDefense/PilotCharacter.cpp" target="_blank">
+                                        View C++ Implementation
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <strong>Wave-Based Enemy System (Blueprint):</strong>
+                                    Enemy spawning and progression system with increasing difficulty and varied enemy behaviors across waves.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/ToVReDefense/tree/main/C_ToVReDefense/Content/Game/Character/Enemy" target="_blank">
+                                        View Enemy Blueprints (.uasset files)
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <strong>Score System (C++):</strong>
+                                    Centralized scoring system handling player progression, score tracking, and gameplay feedback.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/ToVReDefense/blob/main/C_ToVReDefense/Source/C_ToVReDefense/ScoreSystem.cpp" target="_blank">
+                                        View C++ Implementation
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <strong>Weapons & VFX System (Blueprint):</strong>
+                                    Projectile and visual effects system supporting multiple weapon types, enhancing feedback and combat readability.
+                                    <br>
+                                    <a href="https://github.com/gabrielndiniz/ToVReDefense/tree/main/C_ToVReDefense/Content/Game/Character/Enemy/Projectiles" target="_blank">
+                                        View VFX & Projectile Blueprints (.uasset files)
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <p><em>Note: High-quality third-party assets were integrated and customized to support gameplay systems and visual fidelity.</em></p>
+                            <a href="https://github.com/gabrielndiniz/ToVReDefense/tree/main/C_ToVReDefense/Content" target="_blank">
+                                View Project Assets
+                            </a>
+                        
+                        <h3>My Role & Responsibilities</h3>
                         <ul>
-                            <li><strong>Immersive VR Interaction:</strong> Intuitive controls designed specifically for VR, allowing players to naturally interact with the game world</li>
-                            <li><strong>Turret-Based Combat:</strong> Unique approach to VR shooting mechanics that reduces motion sickness while maintaining engaging gameplay</li>
-                            <li><strong>Wave-Based Challenge System:</strong> Progressively difficult enemy encounters that test player skill and strategy</li>
-                            <li><strong>Performance Optimization:</strong> Ensuring smooth gameplay in VR environments, which is critical for player comfort and immersion</li>
-                            <li><strong>Dynamic Difficulty Adjustment:</strong> Systems that adapt to player performance to maintain an optimal challenge level</li>
+                            <li>Design and implementation of VR gameplay systems</li>
+                            <li>Development of interaction and control mechanics</li>
+                            <li>Performance optimization for VR requirements</li>
+                            <li>Enemy behavior and progression system design</li>
+                            <li>UI and feedback systems for spatial interaction</li>
+                            <li>Gameplay balancing and iteration</li>
                         </ul>
                         
-                        <h3>Development Highlights</h3>
-                        <p>Creating a VR experience presented unique challenges:</p>
+                        <h3>Technical Highlights</h3>
                         <ul>
-                            <li>Designing comfortable, intuitive VR interactions that minimize motion sickness</li>
-                            <li>Optimizing performance to maintain the high frame rates required for VR</li>
-                            <li>Creating engaging gameplay within the constraints of a stationary player position</li>
-                            <li>Implementing clear visual and audio feedback for player actions in 3D space</li>
+                            <li>Custom VR interaction system for turret control and weapon handling</li>
+                            <li>Hybrid architecture using C++ (performance-critical systems) and Blueprint (iteration and gameplay logic)</li>
+                            <li>Wave-based spawning system with difficulty progression</li>
+                            <li>Spatial audio integration for improved immersion and player awareness</li>
+                            <li>Score and progression tracking system</li>
                         </ul>
                         
-                        <p>I used a combination of Blueprint visual scripting and C++ for this project, leveraging the strengths of each approach. Performance-critical systems were implemented in C++, while rapid iteration on gameplay features was done with Blueprint.</p>
-                        
-                        <h3>Technical Implementation</h3>
-                        <p>Key technical aspects of this project include:</p>
+                        <h3>Key Challenges & Solutions</h3>
                         <ul>
-                            <li>Custom VR interaction system for turret control and weapon switching</li>
-                            <li>Optimized rendering pipeline for maintaining VR performance</li>
-                            <li>Spatial audio system for immersive sound experience</li>
-                            <li>Enemy spawning and behavior systems with difficulty progression</li>
-                            <li>Score and progression tracking with persistent high scores</li>
+                            <li><strong>Challenge:</strong> Preventing motion sickness in VR gameplay  
+                            <br><strong>Solution:</strong> Designed a stationary turret-based system, eliminating artificial locomotion while maintaining engagement</li>
+                            
+                            <li><strong>Challenge:</strong> Maintaining high and stable frame rates  
+                            <br><strong>Solution:</strong> Optimized rendering and gameplay systems, prioritizing performance-critical logic in C++</li>
+                            
+                            <li><strong>Challenge:</strong> Creating intuitive VR interactions  
+                            <br><strong>Solution:</strong> Developed simplified and responsive control schemes tailored for VR input devices</li>
+                            
+                            <li><strong>Challenge:</strong> Keeping gameplay engaging without player movement  
+                            <br><strong>Solution:</strong> Focused on enemy patterns, wave design, and reactive combat systems</li>
+                        </ul>
+                        
+                        <h3>Lessons Learned</h3>
+                        <ul>
+                            <li>Designing gameplay around VR constraints instead of adapting traditional mechanics</li>
+                            <li>Balancing performance and visual fidelity in VR environments</li>
+                            <li>Combining Blueprint and C++ effectively for both iteration and performance</li>
+                            <li>Improving player feedback in 3D spatial environments</li>
                         </ul>
                     </div>
                 </div>
