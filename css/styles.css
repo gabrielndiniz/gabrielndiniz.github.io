@@ -227,7 +227,48 @@ footer {
     height: 40px;
 }
 
-/* Responsive Design */
+/* Base image styling */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.profile-image {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.about-grid, .bio-content {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.about-image, .bio-image {
+    flex: 0 0 300px;
+}
+
+.about-content, .bio-text {
+    flex: 1;
+}
+
+.project-inner-image {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+}
+
+.project-media img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
 @media (max-width: 768px) {
     .header-container {
         flex-direction: column;
@@ -280,6 +321,23 @@ footer {
     
     .projects-grid {
         grid-template-columns: 1fr;
+    }
+
+    .about-grid, .bio-content {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .about-image, .bio-image {
+        flex: 0 0 auto;
+        width: 100%;
+        max-width: 250px;
+        margin: 0 auto;
+    }
+
+    .project-video iframe {
+        height: 300px;
     }
     /* ===== Main Intro ===== */
     .portfolio-intro {
