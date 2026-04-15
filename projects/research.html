@@ -7,7 +7,7 @@
     <meta name="description" content="Research and academic work by Gabriel Diniz, including dynamic modeling with gPROMS and a professional Augmented Reality study." />
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="../images/favicon.png">
+    <!-- <link rel="icon" type="image/png" href="../images/favicon.png"> -->
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com"/>
@@ -81,91 +81,257 @@
 
     <!-- Research & Academic Work -->
     <section id="research-academic" class="section">
-        <div class="project-content">
-            <h2 class="project-title">Augmented Reality Study – Professional Research</h2>
+        <article class="project-card">
+            <a href="https://bjrs.org.br/revista/index.php/REVISTA/pt_BR/article/view/2714"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="project-media-link">
 
-            <div class="project-tags" aria-label="Technologies used">
-                <span class="tag">AR</span>
-                <span class="tag">XR</span>
-                <span class="tag">Unity</span>
-                <span class="tag">Meta Quest 3</span>
-                <span class="tag">Research</span>
+                <figure class="project-figure">
+                    <img
+                            src="../images/research-ar-thumb.jpg"
+                            alt="Augmented Reality research thumbnail"
+                            class="project-image contain"
+                            loading="lazy"
+                    />
+                </figure>
+            </a>
+            <div class="project-content">
+                <h2 class="project-title">Augmented Reality Study – Professional Research</h2>
+
+                <div class="project-tags" aria-label="Technologies used">
+                    <span class="tag">AR</span>
+                    <span class="tag">XR</span>
+                    <span class="tag">Unity</span>
+                    <span class="tag">Meta Quest 3</span>
+                    <span class="tag">Research</span>
+                </div>
+
+                <p class="project-description">
+                    Applied <strong>Augmented Reality (AR)</strong> research focused on industrial and engineering use cases, including visualization, validation, and interaction with complex 3D models.
+                    The study was conducted using a <strong>Meta Quest 3</strong> and a high-performance workstation, evaluating different tools and workflows for real-world deployment.
+                </p>
+
+                <details>
+                    <summary><strong>Key Findings & Technical Insights</strong></summary>
+                    <div class="project-description">
+
+                        <p><strong>Unity vs Arkio:</strong> Arkio proved more efficient for most visualization workflows, offering faster setup and usability. However, Unity provided greater flexibility and advanced features.</p>
+
+                        <p><strong>Image Recognition (Unity):</strong> Unity enabled AR experiences triggered from printed images or predefined markers, using extensive SDK integration for tracking and interaction.</p>
+
+                        <p><strong>SDK Integration:</strong> Multiple AR/XR SDKs were used to enable tracking, rendering, and interaction systems within Unity.</p>
+
+                        <p><strong>Hardware Setup:</strong> Experiments were conducted using Meta Quest 3 with a high-performance PC to support real-time rendering and interaction.</p>
+
+                    </div>
+                </details>
+
+                <details>
+                    <summary><strong>Applications</strong></summary>
+                    <div class="project-description">
+
+                        <p><strong>3D Model Visualization:</strong> Interactive AR models used for spatial understanding and engineering analysis.</p>
+                        <img
+                                src="../images/ResearchModel.jpg"
+                                alt="AR Model Visualization"
+                                loading="lazy"
+                                style="width: 100%; max-width: 515px; height: auto; display: block; margin: 1rem auto;"
+                        />
+
+                        <p><strong>Industrial Validation:</strong> Detection of inconsistencies in complex installations (e.g., piping systems), applicable to nuclear, industrial, and civil engineering contexts.</p>
+                        <img
+                                src="../images/ResearchPipes.jpg"
+                                alt="Industrial AR Validation"
+                                loading="lazy"
+                                style="width: 100%; max-width: 517px; height: auto; display: block; margin: 1rem auto;"
+                        />
+
+                    </div>
+                </details>
+
+                <details>
+                    <summary><strong>Technical Challenges</strong></summary>
+                    <div class="project-description">
+
+                        <p><strong>High Polygon Count:</strong> Complex models introduced performance bottlenecks and slow loading times.</p>
+
+                        <p><strong>Rendering Instability:</strong> Large meshes caused temporary deformation and visual distortion during initialization.</p>
+
+                        <p><strong>Performance Trade-offs:</strong> Balancing model fidelity and real-time responsiveness was critical for usability.</p>
+
+                        <img
+                                src="../images/ResearchDifficulties.jpg"
+                                alt="AR Performance Issues"
+                                loading="lazy"
+                                style="width: 100%; max-width: 761px; height: auto; display: block; margin: 1rem auto;"
+                        />
+
+                    </div>
+                </details>
+
+                <div class="project-actions">
+                    <a
+                            href="https://bjrs.org.br/revista/index.php/REVISTA/pt_BR/article/view/2714/1745"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="btn btn-sm"
+                    >
+                        Read Full Paper <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
+                    </a>
+                </div>
             </div>
+        </article>
 
-            <p class="project-description">
-                Applied <strong>Augmented Reality (AR)</strong> research focused on industrial and engineering use cases, including visualization, validation, and interaction with complex 3D models. 
-                The study was conducted using a <strong>Meta Quest 3</strong> and a high-performance workstation, evaluating different tools and workflows for real-world deployment.
-            </p>
-
-            <details>
-                <summary><strong>Key Findings & Technical Insights</strong></summary>
-                <div class="project-description">
-
-                    <p><strong>Unity vs Arkio:</strong> Arkio proved more efficient for most visualization workflows, offering faster setup and usability. However, Unity provided greater flexibility and advanced features.</p>
-
-                    <p><strong>Image Recognition (Unity):</strong> Unity enabled AR experiences triggered from printed images or predefined markers, using extensive SDK integration for tracking and interaction.</p>
-
-                    <p><strong>SDK Integration:</strong> Multiple AR/XR SDKs were used to enable tracking, rendering, and interaction systems within Unity.</p>
-
-                    <p><strong>Hardware Setup:</strong> Experiments were conducted using Meta Quest 3 with a high-performance PC to support real-time rendering and interaction.</p>
-
-                </div>
-            </details>
-
-            <details>
-                <summary><strong>Applications</strong></summary>
-                <div class="project-description">
-
-                    <p><strong>3D Model Visualization:</strong> Interactive AR models used for spatial understanding and engineering analysis.</p>
-                    <img 
-                        src="../images/ResearchModel.jpg" 
-                        alt="AR Model Visualization" 
-                        loading="lazy"
-                        style="width: 100%; max-width: 515px; height: auto; display: block; margin: 1rem auto;"
+        <!-- Undergraduate Thesis & Scientific Initiation -->
+        <article class="project-card">
+            <a href="https://repositorio.usp.br/item/001788062" target="_blank" rel="noopener noreferrer" class="project-media-link">
+                <figure class="project-figure">
+                    <img
+                            src="../images/research-gproms-thumb.jpg"
+                            alt="Dynamic modeling of plate heat exchanger"
+                            class="project-image contain"
+                            loading="lazy"
                     />
+                </figure>
+            </a>
 
-                    <p><strong>Industrial Validation:</strong> Detection of inconsistencies in complex installations (e.g., piping systems), applicable to nuclear, industrial, and civil engineering contexts.</p>
-                    <img 
-                        src="../images/ResearchPipes.jpg" 
-                        alt="Industrial AR Validation" 
-                        loading="lazy"
-                        style="width: 100%; max-width: 517px; height: auto; display: block; margin: 1rem auto;"
-                    />
+            <div class="project-content">
+                <h2 class="project-title">Dynamic Modeling of a Plate Heat Exchanger – Poli-USP</h2>
 
+                <div class="project-tags">
+                    <span class="tag">gPROMS</span>
+                    <span class="tag">Modeling</span>
+                    <span class="tag">Simulation</span>
+                    <span class="tag">ODEs</span>
+                    <span class="tag">Thermal Systems</span>
                 </div>
-            </details>
 
-            <details>
-                <summary><strong>Technical Challenges</strong></summary>
-                <div class="project-description">
+                <p class="project-description">
+                    Undergraduate research focused on the <strong>dynamic modeling of a plate heat exchanger</strong> used in pasteurization processes.
+                    The work combines thermodynamics, numerical methods, and simulation to analyze transient behavior and temperature evolution in industrial systems.
+                </p>
 
-                    <p><strong>High Polygon Count:</strong> Complex models introduced performance bottlenecks and slow loading times.</p>
+                <details>
+                    <summary><strong>Overview</strong></summary>
+                    <div class="project-description">
 
-                    <p><strong>Rendering Instability:</strong> Large meshes caused temporary deformation and visual distortion during initialization.</p>
+                        <p>
+                            Pasteurization is a continuous thermal process used to inactivate microorganisms and enzymes in liquid foods, ensuring safety and extending shelf life.
+                            This process relies on interconnected heat exchangers for heating, cooling, and heat regeneration.
+                        </p>
 
-                    <p><strong>Performance Trade-offs:</strong> Balancing model fidelity and real-time responsiveness was critical for usability.</p>
+                        <p>
+                            This research focuses on modeling a <strong>three-section plate heat exchanger</strong>, tracking temperature evolution along the fluid path and evaluating system behavior during startup and process disturbances.
+                        </p>
 
-                    <img 
-                        src="../images/ResearchDifficulties.jpg" 
-                        alt="AR Performance Issues" 
-                        loading="lazy"
-                        style="width: 100%; max-width: 761px; height: auto; display: block; margin: 1rem auto;"
-                    />
+                    </div>
+                </details>
 
+                <details>
+                    <summary><strong>Mathematical Modeling</strong></summary>
+                    <div class="project-description">
+
+                        <p>
+                            The system was modeled using <strong>energy balance differential equations</strong> applied to both fluid channels and exchanger plates, including boundary and initial conditions.
+                        </p>
+
+                        <p>
+                            Spatial discretization was performed using <strong>finite difference methods</strong>, and the resulting system of ODEs was solved using <strong>gPROMS</strong>.
+                        </p>
+
+                        <img
+                                src="../images/researchequation.jpg"
+                                alt="Energy balance equations for heat exchanger"
+                                loading="lazy"
+                                style="width: 100%; max-width: 700px; height: auto; display: block; margin: 1rem auto;"
+                        />
+
+                        <p>
+                            The model describes heat exchange between fluid and plates at each discretized point, enabling detailed analysis of temperature gradients throughout the system.
+                        </p>
+
+                    </div>
+                </details>
+
+                <details>
+                    <summary><strong>System Structure</strong></summary>
+                    <div class="project-description">
+
+                        <p>
+                            The plate heat exchanger consists of multiple channels and plates, allowing efficient heat transfer between fluids in alternating layers.
+                        </p>
+
+                        <img
+                                src="../images/researchplates.jpg"
+                                alt="Plate heat exchanger structure"
+                                loading="lazy"
+                                style="width: 100%; max-width: 700px; height: auto; display: block; margin: 1rem auto;"
+                        />
+
+                        <p>
+                            The interaction between plates and fluid channels is critical to thermal efficiency and was explicitly modeled in the system equations.
+                        </p>
+
+                    </div>
+                </details>
+
+                <details>
+                    <summary><strong>Retention Tube & Heat Loss</strong></summary>
+                    <div class="project-description">
+
+                        <p>
+                            A retention tube was included in the model to simulate the required residence time at high temperature for effective microbial inactivation.
+                        </p>
+
+                        <p>
+                            Heat loss to the environment was modeled separately, accounting for thermal exchange between the fluid and ambient conditions.
+                        </p>
+
+                        <img
+                                src="../images/researchequation2.jpg"
+                                alt="Heat loss equation in retention tube"
+                                loading="lazy"
+                                style="width: 100%; max-width: 700px; height: auto; display: block; margin: 1rem auto;"
+                        />
+
+                    </div>
+                </details>
+
+                <details>
+                    <summary><strong>Results & Applications</strong></summary>
+                    <div class="project-description">
+
+                        <p>
+                            The model was validated using a laboratory-scale pasteurizer (Armfield), processing milk at 72°C.
+                            Simulations captured temperature evolution over time, including startup conditions and process deviations.
+                        </p>
+
+                        <p>
+                            The results enable:
+                        </p>
+
+                        <ul>
+                            <li>Process optimization and control design</li>
+                            <li>Improved operational scheduling</li>
+                            <li>Better understanding of transient thermal behavior</li>
+                        </ul>
+
+                    </div>
+                </details>
+
+                <div class="project-actions">
+                    <a
+                            href="https://repositorio.usp.br/item/001788062"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="btn btn-sm"
+                    >
+                        View Full Work <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </a>
                 </div>
-            </details>
-
-            <div class="project-actions">
-                <a
-                    href="https://bjrs.org.br/revista/index.php/REVISTA/pt_BR/article/view/2714/1745"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="btn btn-sm"
-                >
-                    Read Full Paper <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
-                </a>
             </div>
-        </div>
+        </article>
     </section>
 </main>
 
@@ -188,9 +354,7 @@
         </div>
         <p>&copy; 2025 Gabriel Diniz. All rights reserved.</p>
         <p>
-            <a href="PP.html">Privacy Policy</a> |
-            <a href="TC.html">Terms & Conditions</a> |
-            <a href="docs/Gabriel-Diniz-CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+            <a href="../docs/Gabriel-Diniz-CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>
         </p>
     </div>
 </footer>
