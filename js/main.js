@@ -1,4 +1,4 @@
-// Main JavaScript for Gabriel Diniz Portfolio
+// Main JavaScript for Gabriel Nóbile Diniz Portfolio
 
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile menu toggle

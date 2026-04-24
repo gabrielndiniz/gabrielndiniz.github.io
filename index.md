@@ -1,4 +1,4 @@
-# Gabriel Diniz - Game Developer & Interactive Experience Designer
+# Gabriel Nóbile Diniz - Game Developer & Interactive Experience Designer
 
 Welcome to my professional portfolio! I'm a passionate game developer with 7 years of self-directed study and project experience, currently transitioning from engineering to pursue my true calling in game development. I specialize in creating engaging interactive experiences that combine technical excellence with creative design. My background in engineering gives me a unique perspective on problem-solving and system design in game development.
 
@@ -83,7 +83,7 @@ Game jams have been an important part of my development journey, allowing me to 
 
 ![Me!](images/foto.jpg "Me!")
 
-I'm Gabriel Diniz, a passionate Game Developer with a background in Chemical Engineering from USP (Universidade de São Paulo, Brazil). For the past 6 years, I've been on a self-directed journey to master game development, driven by my passion for creating meaningful interactive experiences. I'm currently transitioning from my role as a Technical Coordinator in engineering to pursue my true calling in game development, where I can combine creativity with technical design excellence.
+I'm Gabriel Nóbile Diniz, a passionate Game Developer with a background in Chemical Engineering from USP (Universidade de São Paulo, Brazil). For the past 6 years, I've been on a self-directed journey to master game development, driven by my passion for creating meaningful interactive experiences. I'm currently transitioning from my role as a Technical Coordinator in engineering to pursue my true calling in game development, where I can combine creativity with technical design excellence.
 
 ### My Professional Values
 
@@ -159,10 +159,10 @@ I'm always interested in discussing new projects, creative collaborations, or op
 
 ### Professional Profiles
 
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:height="50px" width="50px"}](https://github.com/gabrielndiniz "Gabriel N Diniz on GitHub"){:target="_blank" rel="noopener noreferrer"} 
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:height="50px" width="50px"}](https://github.com/gabrielndiniz "Gabriel Nóbile Diniz on GitHub"){:target="_blank" rel="noopener noreferrer"}
 **GitHub:** [github.com/gabrielndiniz](https://github.com/gabrielndiniz){:target="_blank" rel="noopener noreferrer"} - Browse my code repositories and technical projects
 
-[![GitLab](https://about.gitlab.com/images/press/press-kit-icon.svg){:height="50px" width="50px"}](https://gitlab.com/gabrielnd1/ "Gabriel N Diniz on GitLab"){:target="_blank" rel="noopener noreferrer"} 
+[![GitLab](https://about.gitlab.com/images/press/press-kit-icon.svg){:height="50px" width="50px"}](https://gitlab.com/gabrielnd1/ "Gabriel Nóbile Diniz on GitLab"){:target="_blank" rel="noopener noreferrer"}
 **GitLab:** [gitlab.com/gabrielnd1](https://gitlab.com/gabrielnd1/){:target="_blank" rel="noopener noreferrer"} - Additional development projects and collaborations
 
 ### Game Development Platforms
